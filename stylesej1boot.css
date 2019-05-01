@@ -1,2 +1,29 @@
 .caja1
-{background-color: cadetblue; color:black}
+{background-color: cadetblue; 
+color:black}
+
+.caja2
+{background-color:gray; 
+color:black}
+
+.caja3
+{background-color: rgb(228, 102, 201); 
+color:black}
+
+.caja4
+{background-color: cadetblue; 
+color:black}
+
+.caja1
+{background-color: cadetblue; 
+color:black}
+
+
+.centrado
+{text-align: center}
+
+.paddingboost
+{padding:20px}
+
+.paddingboost2
+{padding:50px}
